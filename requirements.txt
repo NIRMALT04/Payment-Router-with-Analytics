@@ -1,0 +1,47 @@
+# Core dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+gradio==4.44.0
+pydantic==2.5.0
+redis==5.0.1
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+
+# Data processing
+pandas==2.1.3
+numpy==1.25.2
+scipy==1.11.4
+
+# Machine Learning
+scikit-learn==1.3.2
+tensorflow==2.15.0
+xgboost==2.0.2
+
+# MCP Integration
+mcp==1.0.0
+websockets==12.0
+
+# Real-time processing
+aioredis==2.0.1
+asyncio-mqtt==0.16.1
+
+# Visualization
+plotly==5.17.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilities
+python-dotenv==1.0.0
+structlog==23.2.0
+typer==0.9.0
+rich==13.7.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+httpx==0.25.2
+
+# Development
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.1
