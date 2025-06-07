@@ -1,6 +1,5 @@
 # Intelligent Payment Router with Real-time Analytics
 
-A production-ready MCP Gradio Server for intelligent payment routing with real-time analytics, built for the Gradio MCP Hackathon.
 
 ## 🎯 Project Overview
 
